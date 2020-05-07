@@ -27,8 +27,8 @@ ENABLE_AUTH = True
 if os.environ.get('ENABLE_AUTH', 'False') == 'True':
     ENABLE_AUTH = True
 # In order to enable basic auth, both USERNAME and PASSWORD should be non-empty strings.
-USERNAME = 'admin'
-PASSWORD = 'scrapydweb'
+USERNAME = 'konlex'
+PASSWORD = 'ggkhk99!Q'
 USERNAME = os.environ.get('USERNAME', 'admin')
 PASSWORD = os.environ.get('PASSWORD', 'scrapydweb')
 
